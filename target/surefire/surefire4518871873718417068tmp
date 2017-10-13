@@ -1,0 +1,28 @@
+#surefire
+#Fri Oct 13 16:30:43 BST 2017
+testClassesDirectory=C\:\\Users\\AlanC\\workspace\\ct417assignment1_driver\\target\\test-classes
+classPathUrl.3=C\:\\Users\\AlanC\\.m2\\repository\\joda-time\\joda-time\\2.9.9\\joda-time-2.9.9.jar
+classPathUrl.2=C\:\\Users\\AlanC\\.m2\\repository\\com\\github\\alancoffey\\ct417assignment1\\-2acd974886-1\\ct417assignment1--2acd974886-1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\AlanC\\workspace\\ct417assignment1_driver\\target\\classes
+reportsDirectory=C\:\\Users\\AlanC\\workspace\\ct417assignment1_driver\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\AlanC\\workspace\\ct417assignment1_driver\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\AlanC\\workspace\\ct417assignment1_driver\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\AlanC\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\AlanC\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\Users\\AlanC\\workspace\\ct417assignment1_driver\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
